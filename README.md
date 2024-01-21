@@ -1,5 +1,3 @@
-# Sala-De-Experimentos
-
 # Sala de Experimentos
 
 Bem-vindo à Sala de Experimentos! Este é um projeto dedicado a testar diversas possibilidades para projetos principais. Utilizamos esta sala para experimentar, prototipar e validar ideias antes de incorporá-las em projetos mais extensos.
